@@ -1,0 +1,77 @@
+﻿.MainContainerStyle {
+padding-left:150px;
+padding-Right:150px;
+background-color:#B6B7BC;
+}
+
+.HeaderPart1Style {
+    height : 80px;
+    padding-Top : 1px;
+    padding-Left : 10px;
+    background-Color : #4B6C9E;
+}
+
+.HeaderPart2Style {
+    height : 60px;
+    padding-Top : 1px;
+    padding-Left : 10px;
+    padding-Right : 10px;
+    background-Color : #3A4F63;
+}
+.RssFeedTextStyle {
+    font-size:25px;
+    font-weight: bold;
+    color: white;
+    font-variant: small-caps;
+}
+.RSSHeaderWelcomeTextStyle {
+    font-size:20px;
+    font-weight: bold;
+    color: #7B8DB9;
+    font-variant: small-caps;
+}
+.span1 {
+    float:right;
+}
+.input1 {
+    height:20px;
+}
+.SubContainerStyle {
+    padding-Left : 20px;
+    padding-Right : 20px;
+    padding-Top : 1px;
+    padding-Bottom : 1px;
+    background-Color : white;
+}
+.titleDivStyle {
+    font-size:30px;
+    font-weight: bold;
+    Color: #606060;
+}
+.setFontStyle {
+    font-size:20px;
+}
+.contentStyle1 {
+ padding-Left : 10px;
+padding-Right : 10px;
+padding-Top : 1px;
+border-Top-Left-Radius :10px;
+border-Top-Right-Radius :10px;
+border-Bottom-Left-Radius :10px;
+border-Bottom-Right-Radius :10px;
+margin-Bottom :10px;
+margin-Top : 10px;
+background-Color :#E1E0D4;
+}
+.contentStyle2 {
+ padding-Left : 10px;
+padding-Right : 10px;
+padding-Top : 1px;
+border-Top-Left-Radius :10px;
+border-Top-Right-Radius :10px;
+border-Bottom-Left-Radius :10px;
+border-Bottom-Right-Radius :10px;
+margin-Bottom :10px;
+margin-Top : 10px;
+background-Color :#D1D0D4;
+}
