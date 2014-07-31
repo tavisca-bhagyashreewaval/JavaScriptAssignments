@@ -3,28 +3,16 @@
 window.onload = function () {
     containe = document.createElement("div");
     containe.className = "container MainContainerStyle";
-    //containe.style.paddingLeft = '150px';
-    //containe.style.paddingRight = '150px';
-    //containe.style.backgroundColor = '#B6B7BC';
     containe.id = "MainContainer";
     document.body.appendChild(containe);
 
     header_part1 = document.createElement('div');
     header_part1.className = "HeaderPart1Style";
-    //header_part1.style.height = '80px';
-    //header_part1.style.paddingTop = '1px';
-    //header_part1.style.paddingLeft = '10px';
-    //header_part1.style.backgroundColor = '#4B6C9E';
     header_part1.innerHTML = "<p class=\"RssFeedTextStyle\"> RSS FEED READER 1.0 !</p>";
     document.getElementById("MainContainer").appendChild(header_part1);
 
     header_part2 = document.createElement('div');
     header_part2.className = "HeaderPart2Style";
-    //header_part2.style.height = '60px';
-    //header_part2.style.paddingTop = '1px';
-    //header_part2.style.paddingLeft = '10px';
-    //header_part2.style.paddingRight = '10px';
-    //header_part2.style.backgroundColor = '#3A4F63';
     header_part2.innerHTML = "<p class=\"RSSHeaderWelcomeTextStyle\"> WELCOME TO RSS READER !! <span class=\"span1\">RSS FEEDS URL :<input type=\"text\" id =\"url\" size=\"50\" class=\"input1\"></span></p>";
     document.getElementById("MainContainer").appendChild(header_part2);
 
